@@ -12,6 +12,7 @@ h2 {
 }
 .desing {
   background-color: lightgreen;
+  box-shadow: 3px 5px 5px rgb(3, 32, 51, .8);
 }
 
 .desing h3 {
@@ -23,6 +24,11 @@ h2 {
 .desing p {
   font-family: "Times New Roman", Times, serif;
   text-align: center;
+}
+
+.desing:hover{
+    background-color: #008f6d;
+    transform: translateY(-10px);
 }
 
 .column {
