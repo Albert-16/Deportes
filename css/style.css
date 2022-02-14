@@ -25,6 +25,21 @@
   }
   }
 
+  /* Configuración del menú responsivo */
+.checkbtn{
+  text-decoration: none;
+  font-size: 30px;
+  color: black;
+  line-height: 80px;
+  margin-right: 40px;
+  cursor: pointer;
+  display: none;
+}
+
+#check{
+  display: none;
+}
+
   /* Configuración del Slider */
 .slider {
   width: 100%;
